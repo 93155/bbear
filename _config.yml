@@ -6,7 +6,7 @@ bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://93155.github.io/bbear/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
